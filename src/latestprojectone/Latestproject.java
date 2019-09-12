@@ -17,5 +17,7 @@ a=1000;
 int d = a+b;
 System.out.println(d);
 System.out.println("Praveen is going to placed first");
-}	
+
+System.out.println("Tamil da");
+}
 }
